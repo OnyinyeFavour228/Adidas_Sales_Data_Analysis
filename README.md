@@ -3,4 +3,4 @@
 
 This is an analysis of adidas sales in USA (2020-2021)
 ## Data Sourcing 
-The dataset used was gotten from kaggle. It consist of 9652 rows and 14 columns.
+The [dataset](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset) used was gotten from kaggle. It consist of 9652 rows and 14 columns.
