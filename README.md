@@ -15,7 +15,8 @@ The following insights were uncovered
 ![Screenshot_20230707-112948](https://github.com/OnyinyeFavour228/Adidas_Sales_Data_Analysis/assets/107655675/042a6740-ec07-4e93-8869-e3baf961428e)
 
 * Out of the three sales method used (In-store, Online and Outlet), the method with the highest percentage of sales is the In-store method
-![Screenshot_20230707-113028](https://github.com/OnyinyeFavour228/Adidas_Sales_Data_Analysis/assets/107655675/082f4320-d84d-45ec-a65f-ff3ee709f456)
+![Polish_20230709_172738026](https://github.com/OnyinyeFavour228/Adidas_Sales_Data_Analysis/assets/107655675/63d83d78-63ab-42bd-92ab-772b6ecb7d7e)
+
 
 
 
