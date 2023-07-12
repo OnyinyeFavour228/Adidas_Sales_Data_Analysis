@@ -16,13 +16,16 @@ The following insights were uncovered
 
 
 * Out of the three sales method used (In-store, Online and Outlet), the method with the highest percentage of sales is the In-store method
+
 ![Sales Method](https://github.com/OnyinyeFavour228/Adidas_Sales_Data_Analysis/assets/107655675/f7868115-e1c7-4d77-a4dc-2bb798e4ec03)
 
 
 * The top performing retailers are West Gear, Foot Locker and Sport Direct. Maintaining and strengthening partnerships with these retailers could lead to sustained growth in sales.
+
 ![Retailer](https://github.com/OnyinyeFavour228/Adidas_Sales_Data_Analysis/assets/107655675/d3778d3b-2c13-444c-9a1c-e0cef86b58c1)
 
 
 * New York is the top performing state by total sales.
+
 ![States](https://github.com/OnyinyeFavour228/Adidas_Sales_Data_Analysis/assets/107655675/fdd3adfa-bb89-429e-ac01-b174baf075f3)
 
